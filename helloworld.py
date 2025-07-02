@@ -1,0 +1,15 @@
+import time
+
+print("You'd think I'd want to just put something simple...")
+time.sleep(3)
+print("But for some reason, I just want to make this more complicated, without actually saying it.")
+time.sleep(3)
+print("Like I could say, g'day globe. Or something like that.")
+time.sleep(3)
+print("But, I do need to prepare for family pictures, so I guess I'll just go ahead and say it.")
+time.sleep(3)
+input("Press enter to see what you've been waiting for.")
+print("Error has occured...  just kidding.")
+time.sleep(3)
+input("Ok, for reals this time, press any key to see what you want to see.")
+print("Hello World.")
