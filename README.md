@@ -5,7 +5,7 @@ I have created this project from scratch and all from my memory just to test mys
 This software is just for displaying the text I have coded in.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/fotT0ZsNNa0)
 
 # Development Environment
 
