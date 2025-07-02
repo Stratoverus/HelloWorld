@@ -4,7 +4,6 @@ I have created this project from scratch and all from my memory just to test mys
 
 This software is just for displaying the text I have coded in.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
